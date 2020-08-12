@@ -1,2 +1,2 @@
-# senior-erp-java
+# senior-erpx-java
 Responsável pelos serviços do ERPx
